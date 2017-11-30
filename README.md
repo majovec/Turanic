@@ -3,8 +3,8 @@
 Fast server software for Minecraft: Bedrock/PE Edition and W10 Edition - v1.2.x.
 Turanic is a fork of GenisysPro
 
-| Twitter | Travis CI | Discord |
-| :---: | :---: | :---: |
+| ![Download icon](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_file_download_black_18px.svg) PHAR | Twitter | Travis CI | Discord |
+| :---: | :---: | :---: | :---: |
  [![Twitter](https://i.hizliresim.com/vJ2594.jpg)](https://twitter.com/TuranicTeam) | [![Build Status](https://travis-ci.org/TuranicTeam/Turanic.svg?branch=master)](https://travis-ci.org/TuranicTeam/Turanic) | [![Discord](https://camo.githubusercontent.com/455152269a0ed38255ed15e375084d4dd08e0c98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d6f6e253230646973636f72642d3732383944412e737667)](https://discord.gg/4GZxrdk) |
 
 -------------
